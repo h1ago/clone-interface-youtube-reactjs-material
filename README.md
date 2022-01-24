@@ -1,5 +1,5 @@
 # Imagens
 
-![igooG Light](/public/img/igoog-light.png)
+![Youtube Light](/public/img/youtube-light.png)
 
-![igooG Dark](/public/img/igoog-dark.png)
+![Youtube Dark](/public/img/youtube-dark.png)
